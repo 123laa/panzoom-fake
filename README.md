@@ -41,7 +41,3 @@
 ## 效果演示
 
 <img src="/public/show.gif" alt=""/>
-
-## 已知问题
-
-1. 双击缩放：电脑浏览器鼠标双击以及ionic app应用双击没有问题。手机浏览器双击则无效果。手机浏览器好像要将zoomDoubleClickSpeed设置为不为1的数，但是效果则不是我修改后的效果。
